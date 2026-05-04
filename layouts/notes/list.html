@@ -1,0 +1,29 @@
+{{ define "main" }}
+<content>
+  {{ .Content }}
+  {{ range .Pages }}
+  <article class="note">
+    <p class="note-date">
+      <a href="{{ .RelPermalink }}">
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+        </time>
+        {{ with .Title }}– {{ . }}{{ end }}
+      </a>
+    </p>
+    {{ .Content }}
+    {{ with .Resources.ByType "image" }}
+    <div class="note-images">
+      {{ range . }}
+      {{ $thumbnail := .Resize "600x" }}
+      <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" />
+      {{ end }}
+    </div>
+    {{ end }}
+    <hr />
+  </article>
+  {{ else }}
+  <p>{{ i18n "no-posts" }}</p>
+  {{ end }}
+</content>
+{{ end }}

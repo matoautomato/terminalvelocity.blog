@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with .Params.author }}<p class="subtitle"><em>{{ . }}</em></p>{{ end }}
+{{ with .Params.cover }}
+<img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover" />
+{{ end }}
+<p class="book-meta">
+  {{ with .Params.page_count }}{{ . }} pages{{ end }}
+  {{ with $.Params.rating }} · {{ . }}/10{{ end }}
+</p>
+<content>
+  {{ .Content }}
+</content>
+<p>
+  <a href="{{ .Parent.RelPermalink }}">← Back to books</a>
+</p>
+{{ end }}

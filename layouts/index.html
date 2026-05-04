@@ -1,0 +1,60 @@
+{{ define "main" }} {{ .Content }}
+
+<h2>Posts</h2>
+<ul class="blog-posts">
+  {{ range first 4 (where .Site.RegularPages "Section" "posts") }}
+  <li>
+    <span
+      ><i
+        ><time datetime='{{ .Date.Format "2006-01-02" }}' pubdate
+          >{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat)
+          }}</time
+        ></i
+      ></span
+    >
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+<p><a href="/posts/">all posts...</a></p>
+
+<br />
+
+<h2>Notes</h2>
+<ul class="blog-posts">
+  {{ range first 4 (where .Site.RegularPages "Section" "notes") }}
+  <li>
+    <span
+      ><i
+        ><time datetime='{{ .Date.Format "2006-01-02" }}' pubdate
+          >{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat)
+          }}</time
+        ></i
+      ></span
+    >
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+<p><a href="/notes/">all notes...</a></p>
+
+<br />
+
+<h2>Books</h2>
+<ul class="blog-posts">
+  {{ range first 4 (where .Site.RegularPages "Section" "books") }}
+  <li>
+    <span
+      ><i
+        ><time datetime='{{ .Date.Format "2006-01-02" }}' pubdate
+          >{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat)
+          }}</time
+        ></i
+      ></span
+    >
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.author }}&nbsp;({{ . }}){{ end }}
+  </li>
+  {{ end }}
+</ul>
+<p><a href="/books/">all books...</a></p>
+{{ end }}

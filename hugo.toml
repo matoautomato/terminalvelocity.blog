@@ -1,0 +1,23 @@
+baseURL = "https://terminalvelocity.blog/"
+title = "❯ terminal velocity_"
+theme = "hugo-bearcub"
+copyright = "© Matthias Leyendecker. All rights reserved."
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
+[params]
+  description = "Essays, notes, and books by Matthias Leyendecker."
+  dateFormat = "2006-01-02"
+  generateSocialCard = true
+  favicon = "/favicon.svg"
+
+  [params.author]
+    name = "Matthias Leyendecker"
