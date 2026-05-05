@@ -11,7 +11,7 @@
           </time>
         </i>
       </span>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.author }}&nbsp;<span style="white-space:nowrap">({{ . }})</span>{{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.author }} ({{ . }}){{ end }}</a>
     </li>
     {{ else }}
     <li>{{ i18n "no-posts" }}</li>
