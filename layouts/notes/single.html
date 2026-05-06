@@ -10,8 +10,7 @@
   {{ with .Resources.ByType "image" }}
   <div class="note-images">
     {{ range . }}
-    {{ $img := .Resize "1200x" }}
-    <img src="{{ $img.RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="{{ $img.Width }}" height="{{ $img.Height }}" />
+    <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
     {{ end }}
   </div>
   {{ end }}
