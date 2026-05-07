@@ -8,7 +8,7 @@ weight: 5
 
 ## About me
 
-I'm multi-classing life as a tinkerer and a poet, with a knack for documenting everything I learn or find interesting. Outside of my work in tech I have a rotating cast of obsessions (heavy or ambient music, photography, pen & paper RPGs, refurbishing old MacBooks, coding badly) - and a fixed cast of humans I do life with: my partner [Sophie](https://leyendecker.hebamio.de/) and our two kids. We live right at the northern tip of the Black Forest in southern Germany. My e-reader never leaves my side - send me reading recommendations. 
+I'm multi-classing life as a tinkerer and a poet, with a knack for documenting everything I learn or find interesting. Outside of my work in tech I have a rotating cast of obsessions (heavy or ambient music, photography, pen & paper RPGs, refurbishing old MacBooks, coding badly) - and a fixed cast of humans I do life with: my partner [Sophie](https://leyendecker.hebamio.de/) and our two kids. We live right at the northern tip of the Black Forest in southern Germany. My e-reader never leaves my side - [send](mailto:matthias.leyendecker@proton.me) me reading recommendations. 
 
 For professional inquiries you can visit my [website](https://terminalvelocity.me).
 
