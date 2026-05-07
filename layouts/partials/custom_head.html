@@ -1,8 +1,23 @@
 <style>
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('/fonts/webfonts/JetBrainsMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
 html { overflow-y: scroll; }
 figure { text-align: center; }
 a.title { display: flex; align-items: center; gap: 0.5em; }
-.avatar { width: 2em; height: 2em; border-radius: 50%; }
+a.title h1 { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+.avatar { width: 2.5em; height: 2.5em; border-radius: 50%; }
 p.byline, time { font-family: monospace; font-style: normal; }
 .search-input { display: block; margin: 1em 0; background: #fff; color: #333; }
 body, main { background-color: #1a2c30; }

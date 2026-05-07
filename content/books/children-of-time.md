@@ -13,4 +13,4 @@ Alternating chapters follow the cultural evolution of Portia labiata spiders ove
 
 ## Review
 
-If you are an arachnophobe, you should not read this book under any circumstance. I mean it. If that does not bother you, it is definitely a fascinating thought experiment of evolutionary pathways. For me the end – first contact – of 2 different species was a bit weak. 
+If you are an arachnophobe, you should not read this book under any circumstance. I mean it. If that does not bother you, it is definitely a fascinating thought experiment of evolutionary pathways. For me the end - first contact of 2 different species - was a bit weak.
