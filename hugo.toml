@@ -5,6 +5,7 @@ copyright = "© Matthias Leyendecker. All rights reserved."
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
+buildFuture = true
 disableKinds = ["taxonomy"]
 
 [markup]
