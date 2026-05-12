@@ -4,10 +4,10 @@ subtitle: How does BNPL - which is human-in-the-loop to the core - become agenti
 date: 2026-05-12
 description: How does agentic commerce fit into BNPL
 tags:
-  - "#payment"
-  - "#fintech"
+  - payment
+  - fintech
   - ai
-  - "#opinion"
+  - opinion
 ---
 
 Everyone and their mother keeps talking about agentic commerce it would seem. That is, if you live in payment la la land. I can confidently say that none of my friends outside of this industry bubble have ever heard of such a thing, nor do they even remotely care. When I told my wife what my next blog post topic was, she was just shaking her head silently. Very understandably so, if I may add. 
