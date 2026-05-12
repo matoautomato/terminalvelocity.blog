@@ -52,7 +52,7 @@ Five competing open protocols are shipping simultaneously, some of them already 
 
 If you're reading that table and thinking "oh my god, this looks like five competing standards that partially overlap, built by companies that are partnering and / or competing with each other" ...well, congratulations, that's 100% accurate. Stripe co-authored ACP with OpenAI while also endorsing Google's UCP. Google leads UCP but also leads AP2, which sits inside UCP but is its own open-source project donated to FIDO. Confused yet? 
 
-Coinbase's x402 doesn't care about any of them and just does its own HTTP-native thing, while [laying off 14% of staff](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/) and having non-techies [vibe-code new products](https://www.pymnts.com/artificial-intelligence-2/2026/vibe-coding-breaks-into-banking-before-regulators-can-react/) and [suffering a multi-hour outage](https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses) while managing trade for 20% of the world's bitcoin. I rest my case.
+Coinbase's x402 doesn't care about any of them and just does its own HTTP-native thing, while [laying off 14% of staff](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/) and having non-techies [vibe-code new products](https://www.pymnts.com/artificial-intelligence-2/2026/vibe-coding-breaks-into-banking-before-regulators-can-react/) and [suffering a multi-hour outage](https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses). I rest my case.
 
 ### Product: What you actually integrate
 

@@ -15,3 +15,9 @@ For professional inquiries you can visit my [website](https://terminalvelocity.m
 ## Contact
 
 [Email](mailto:matthias.leyendecker@proton.me) - [Bluesky](https://bsky.app/profile/matoautomato.bsky.social) - [Github](https://github.com/matoautomato) - [LinkedIn](https://www.linkedin.com/in/mlyndckr/)
+
+## Acknowledgements
+
+Built with [Hugo](https://gohugo.io/) and the [Bear Cub](https://github.com/clente/hugo-bearcub) theme.
+
+Header font is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).

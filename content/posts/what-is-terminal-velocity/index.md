@@ -6,6 +6,8 @@ description: For software engineers, it's the speed at which they spin up things
 tags: []
 ---
 
+Apart from being a catchy name:
+
 For software engineers, it's the speed at which they spin up things on their local machine via the terminal. And I'd be lying if I said that joke isn't hidden somewhere in the name of this blog. But I digress.
 
 For a physicist, terminal velocity is the maximum possible velocity of an object once its acceleration equals its drag. In this state, the object stops accelerating and continues at a constant speed.
