@@ -4,4 +4,4 @@ title: The PR machine is in full swing
 tags: []
 ---
 
-The PR machine is in full swing, when adding a Slack-bot with extra permissions is called a paradigm shift. I've seen the first bots of that kind in early 2024, hosted and maintained locally by tech companies.
+The PR machine is in full swing, when adding a Slack-bot with extra permissions is called a paradigm shift. I've seen the first bots of that kind in early 2024, hosted locally.
