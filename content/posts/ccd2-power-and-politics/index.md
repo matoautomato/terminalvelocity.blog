@@ -79,7 +79,7 @@ Which leaves us with the quietest player in the room, and – by following the m
 
 ## Where the eagle has actually landed
 
-So after all that trench warfare, where did the final German law actually come down? Not cleanly on any single lobby's side, as flagged by payments lawyer Florian Lörsch on the [Alles Legal podcast](https://paymentandbanking.podigee.io/822-alles-legal-133-ccd2-umsetzung-fix-die-neuen-spielregeln-fur-die-kreditbranche), whose episode on the final law billed it as holding *handfeste Überraschungen* – some real surprises – in how far it swung away from the draft. 
+So after all that trench warfare, where did the final German law actually come down? Not cleanly on any single lobby's side, as flagged on the [Alles Legal podcast](https://paymentandbanking.podigee.io/822-alles-legal-133-ccd2-umsetzung-fix-die-neuen-spielregeln-fur-die-kreditbranche), whose episode on the final law billed it as holding *handfeste Überraschungen* – some real surprises – in how far it swung away from the draft. 
 
 [Per Noerr's read of the passed law](https://www.noerr.com/de/insights/gesetz-zur-umsetzung-der-verbraucherkreditrichtlinie-2023-beschlossen):
 
