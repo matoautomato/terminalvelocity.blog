@@ -8,7 +8,9 @@ weight: 5
 
 ## About me
 
-I am a professional product manager and an amateur everything else. Outside of my work in tech I have a rotating cast of obsessions (heavy or ambient music, photography, pen & paper RPGs, refurbishing old MacBooks, coding badly) - and a fixed cast of humans I do life with: my wife Sophie and our two kids. We live right at the northern tip of the Black Forest in southern Germany. My e-reader never leaves my side - [send](mailto:matthias.leyendecker@proton.me) me reading recommendations. 
+I am a professional product manager and an amateur everything else. Outside of my work in tech I have a rotating cast of obsessions (heavy or ambient music, photography, pen & paper RPGs, refurbishing old MacBooks, coding badly) - and a fixed cast of humans I do life with: my wife Sophie and our two kids. We live right at the northern tip of the Black Forest in southern Germany.
+
+My e-reader never leaves my side - [send](mailto:matthias.leyendecker@proton.me) me reading recommendations.
 
 For professional inquiries you can visit my [website](https://terminalvelocity.me).
 
