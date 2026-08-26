@@ -21,6 +21,7 @@
   --ink-soft:  #a8a6b0;
   --line:      #2e2d38;
   --accent:    #a89ae8;
+  --visited:   #cdbefd;
   --hot:       #df8e1d;
 }
 
@@ -38,7 +39,7 @@ h1, h2, h3, h4, h5, h6, strong, b { color: var(--ink); }
 
 a { color: var(--accent); }
 a:hover { color: var(--hot); }
-a:visited, ul.blog-posts li a:visited { color: color-mix(in srgb, var(--accent) 55%, var(--ink-soft)); }
+a:visited, ul.blog-posts li a:visited { color: var(--visited); }
 a:visited:hover, ul.blog-posts li a:visited:hover { color: var(--hot); }
 
 blockquote { border-left: 1px solid var(--line); color: var(--ink-soft); }
