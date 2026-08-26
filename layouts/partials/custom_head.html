@@ -13,18 +13,50 @@
   font-style: normal;
   font-display: swap;
 }
+
+:root {
+  --bg:        #15141a;
+  --bg-raised: #1d1c24;
+  --ink:       #e9e7e1;
+  --ink-soft:  #a8a6b0;
+  --line:      #2e2d38;
+  --accent:    #a89ae8;
+  --hot:       #df8e1d;
+}
+
 html { overflow-y: scroll; }
 figure { text-align: center; }
 a.title { display: flex; align-items: center; gap: 0.5em; }
 a.title h1 { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
 .avatar { width: 3em; height: 3em; border-radius: 50%; }
 p.byline, time { font-family: monospace; font-style: normal; }
-.search-input { display: block; margin: 1em 0; background: #fff; color: #333; }
-body, main { background-color: #0d1117; }
-a { color: #38bcd8; }
-a:visited, ul.blog-posts li a:visited { color: #df8e1d; }
 .blog-tags { font-size: 0.85em; }
-figure img, .note-images img { max-width: 100%; height: auto; padding: 10px; background-color: white; }
 main h2 { margin-top: 2.5em; }
+
+body, main { background-color: var(--bg); color: var(--ink); }
+h1, h2, h3, h4, h5, h6, strong, b { color: var(--ink); }
+
+a { color: var(--accent); }
+a:hover { color: var(--hot); }
+a:visited, ul.blog-posts li a:visited { color: color-mix(in srgb, var(--accent) 55%, var(--ink-soft)); }
+a:visited:hover, ul.blog-posts li a:visited:hover { color: var(--hot); }
+
+blockquote { border-left: 1px solid var(--line); color: var(--ink-soft); }
+table, th, td { border-color: var(--line); }
+figcaption > p, .helptext { color: var(--ink-soft); }
+.errorlist { color: var(--hot); }
+.skip-link { background-color: var(--bg); }
+
+textarea, input { background-color: var(--bg-raised); color: var(--ink); }
+.search-input {
+  display: block; margin: 1em 0;
+  background: var(--bg-raised); color: var(--ink);
+  border: 1px solid var(--line);
+}
+
+code { color: var(--ink); background-color: var(--bg-raised); }
+.chroma, .bg { background-color: var(--bg-raised); }
+
+figure img, .note-images img { max-width: 100%; height: auto; padding: 10px; background-color: white; }
 @media screen and (max-width: 768px) { figure img, .note-images img { padding: 3px; } }
 </style>
