@@ -18,7 +18,7 @@ And skydivers also know that reaching one's terminal velocity is just half the f
 
 Once you dive (pun intended) into that rabbit hole, you realise this is a remarkably hard physical feat. Speeds of up to 90 m/s are possible with enough experience. Which is incredibly fast, if that needs to be stressed again.
 
-{{< figure src="pexels-pixabay-70361_skydive.jpg" alt="Skydiver in free fall" caption="Skydiver in free fall" >}}
+{{< figure src="pexels-pixabay-70361_skydive.webp" alt="Skydiver in free fall" caption="Skydiver in free fall" >}}
 
 To bring the metaphor home: one of my core beliefs is that speed beats literally every other business metric when building software products. Speed to discover the right things to build, speed of execution, speed to market, speed to pivot when experiments go wrong. Good tech companies have already accelerated to terminal velocity. The best companies have found ways to pull in their limbs and decrease the drag to reach even higher speeds. Excellent leaders always find ways to decrease that drag as much as possible.
 
