@@ -1,6 +1,6 @@
 ---
 date: 2026-09-14
-title: There's a word for that
+title: AI will kill us all
 tags: []
 ---
 
