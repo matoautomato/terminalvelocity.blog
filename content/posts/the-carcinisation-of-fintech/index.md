@@ -132,6 +132,6 @@ Maybe.
 
 Banks have an incentive to welcome some AI transformation – as long as those AI agents reside within *their own ecosystem* – within their own crab shell. If it comes from the outside, an agent could become a parasite they cannot adapt fast enough to. The banking licence and balance sheet might remain essential, but the customer relationship becomes meaningless since an agent has moved into that niche. Or banks will (again) find a way to include that into their moat, and the rules of the game remain the same.
 
-Evolution explains how we got here rather better than it tells us what comes next.
+Evolution explains how we got here much better than it tells us what comes next.
 
 {{< figure src="crab-molt.webp" alt="An empty moulted crab shell on the beach" caption="The old shell, left behind." attr="Photo: Daniel Ramirez / CC BY 2.0" attrlink="https://commons.wikimedia.org/wiki/File:Molted_Crab_Shell_(6225160957).jpg" width="1200" height="804" >}}
