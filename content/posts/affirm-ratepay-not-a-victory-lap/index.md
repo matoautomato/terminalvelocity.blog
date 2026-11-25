@@ -9,7 +9,7 @@ Affirm has agreed to buy Ratepay from Nexi. The deal has been [announced on 9 No
 
 The digital ink wasn't even dry on this announcement and some people in this little corner of payments have already treated the news as an invitation to advertise their own BNPL products and platforms. Declaring themselves the real deal on LinkedIn posts and comments, the last man standing, accompanied by badly generated AI-slop market analysis plastered with competitor logos. Claude, do market research, make no mistakes. Apart from the bad taste it leaves in one's mouth: lads, maybe wait until the people losing their jobs with this announcement have made it home, will ya?
 
-{{< figure src="disaster-girl.webp" alt="Disaster Girl in front of a burning house" caption="There is a lesson B2B-sales here, apparently." >}}
+{{< figure src="disaster-girl.webp" alt="Disaster Girl in front of a burning house" caption="There is a lesson in B2B-sales here, apparently." >}}
 
 While never working at Ratepay, I collaborated and competed with so many people from Ratepay over the years in this so very niche corner of payments within the DACH market, I do feel like I had a front-row seat to the story of one of Germany’s most successful fintechs. And having built so many BNPL platforms and products over the years, I think I have a firm grasp on what went sideways, which I am trying to convey in this post without any gleeful cheer whatsoever.
 
